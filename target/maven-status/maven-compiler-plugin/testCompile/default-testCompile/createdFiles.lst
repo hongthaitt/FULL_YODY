@@ -1,0 +1,13 @@
+common\BaseTest.class
+common\TH.class
+Object\Product.class
+page\RegisterPage.class
+constanst\CommonConstanst.class
+testcase\LoginTestcase.class
+page\LoginPage.class
+page\CheckoutPage.class
+testcase\CheckoutTestcase.class
+page\CartPage.class
+testcase\SearchTestcase.class
+page\SearchPage.class
+testcase\RegisterTestcase.class
